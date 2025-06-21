@@ -479,6 +479,13 @@ a.linkRow:hover {
 
   width: 300px;
 }
+#managePics {
+  margin-top: -68%;
+  margin-right: -11%;
+  height: 200px;
+
+  width: 300px;
+}
 
 .smlTravel {
   width: 50%; /* Image fills its floated parent (300px) */
@@ -938,13 +945,22 @@ a.linkRow:hover {
   }
 
   #brandingPics,
-  #socialPics {
+  #socialPics,
+  #managePics {
     margin-top: -25%;
     margin-right: 2%;
     width: 250px;
     height: 300px;
   }
 
+  #managePics {
+    margin-top: -35%;
+    margin-right: 2.5%;
+  }
+
+  #webPics {
+    margin-top: -28%;
+  }
   #socialPics {
     margin-top: -35%;
   }
